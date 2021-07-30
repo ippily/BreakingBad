@@ -1,0 +1,6 @@
+module Pods_BreakingBadTests {
+  umbrella header "Pods-BreakingBadTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
