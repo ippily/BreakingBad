@@ -1,5 +1,8 @@
 # Breaking Bad Swift Application
 
+## Running the Application
+Open `BreakingBad.xcworkspace`
+
 ## Further Development
 - Include proper error handling.
 - Implement pull to refresh.
